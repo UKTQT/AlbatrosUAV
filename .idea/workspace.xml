@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0c19c109-b6c3-4be3-acec-ab5d2c8486be" name="Default Changelist" comment="" />
+    <list default="true" id="0c19c109-b6c3-4be3-acec-ab5d2c8486be" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +17,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
   <component name="ProjectId" id="1UtWzRwIQsH4p5HKlxW3U9KCCXC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +30,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunManager">
     <configuration name="Capture" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -75,5 +84,31 @@
       <updated>1576176633111</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1233" height="279" key="GridCell.Tab.0.bottom" timestamp="1576177006761">
+      <screen x="49" y="27" width="2511" height="1053" />
+    </state>
+    <state width="1233" height="279" key="GridCell.Tab.0.bottom/49.27.2511.1053@49.27.2511.1053" timestamp="1576177006761" />
+    <state width="1233" height="279" key="GridCell.Tab.0.center" timestamp="1576177006760">
+      <screen x="49" y="27" width="2511" height="1053" />
+    </state>
+    <state width="1233" height="279" key="GridCell.Tab.0.center/49.27.2511.1053@49.27.2511.1053" timestamp="1576177006760" />
+    <state width="1233" height="279" key="GridCell.Tab.0.left" timestamp="1576177006759">
+      <screen x="49" y="27" width="2511" height="1053" />
+    </state>
+    <state width="1233" height="279" key="GridCell.Tab.0.left/49.27.2511.1053@49.27.2511.1053" timestamp="1576177006759" />
+    <state width="1233" height="279" key="GridCell.Tab.0.right" timestamp="1576177006760">
+      <screen x="49" y="27" width="2511" height="1053" />
+    </state>
+    <state width="1233" height="279" key="GridCell.Tab.0.right/49.27.2511.1053@49.27.2511.1053" timestamp="1576177006760" />
+    <state x="1527" y="289" width="800" height="524" key="Vcs.Push.Dialog.v2" timestamp="1576177728591">
+      <screen x="49" y="27" width="2511" height="1053" />
+    </state>
+    <state x="1527" y="289" width="800" height="524" key="Vcs.Push.Dialog.v2/49.27.2511.1053@49.27.2511.1053" timestamp="1576177728591" />
+    <state x="1700" y="473" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1576177949721">
+      <screen x="49" y="27" width="2511" height="1053" />
+    </state>
+    <state x="1700" y="473" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/49.27.2511.1053@49.27.2511.1053" timestamp="1576177949721" />
   </component>
 </project>
