@@ -15,5 +15,5 @@ def setResolution(standart):
     elif standart == "PAL":
         width = 640
         height = 480
-    Capture.capture.set(cv.CAP_PROP_FRAME_WIDTH(width))
-    Capture.capture.set(cv.CAP_PROP_FRAME_HEIGHT(height))
+    Capture.capture.set(cv.CAP_PROP_FRAME_WIDTH,width)
+    Capture.capture.set(cv.CAP_PROP_FRAME_HEIGHT,height)
